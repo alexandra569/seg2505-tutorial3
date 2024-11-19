@@ -12,3 +12,5 @@ password: evea123
 username: evea
 
 lien vers firebase: https://tutoriel3-6df66-default-rtdb.firebaseio.com/
+
+lien vers depot github: https://github.com/alexandra569/seg2505-tutorial3.git
